@@ -1,1 +1,3 @@
 print("Welcome to Digital Image Processing lab")
+print("An image contain pixal")
+print("Pixal Contain numerical value")
