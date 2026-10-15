@@ -1,3 +1,9 @@
 print("Welcome to Digital Image Processing lab")
 print("An image contain pixal")
 print("Pixal Contain numerical value")
+
+lab_day = "Wednesday";
+print(lab_day);
+
+Pixal_Brightness=180;
+print(Pixal_Brightness);
